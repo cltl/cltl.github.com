@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello World!
+title: CLTL main github webpage
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
